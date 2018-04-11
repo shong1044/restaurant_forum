@@ -8,6 +8,7 @@ end
 gem 'devise'
 gem 'carrierwave'
 gem 'ffaker'
+gem 'kaminari'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
